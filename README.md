@@ -1,1 +1,1 @@
-This repository holds solutions to leet code questions.
+This repository holds solutions to LeetCode questions.
